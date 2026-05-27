@@ -796,3 +796,4 @@ Reasonable equity stake sizing (for my own deal-pricing discipline):
 6. What's my AI-agent product roadmap such that I have a stable, demoable stack for the first 10 engagements? (Per Capranos: data quality is the difference between 60% and 30% call resolution — I need clean infrastructure before scaling pitches.)
 7. Do I need a PCI-DSS-compliant tenant-data infrastructure live before pitching any voice-agent component? Likely yes — get this in place before deal #2 goes live.
 8. What's my case-study pipeline? Deal #12 (NOI Guarantee) is unlocked only after I have 3 audited results to point to.
+
